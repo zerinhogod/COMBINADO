@@ -12,11 +12,11 @@ API_ID = 28394860
 API_HASH = "07b4fad3981e64c0554add6f249f7c07"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "7261208882:AAFVXE5Rih3RwTkcNHK1yzidJhadacBwjjU"
+BOT_TOKEN = "GO FUCK"
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = "mongodb+srv://combinado:combinado@cluster0.2a7qm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-MUSIC_BOT_NAME = "COMBINADO MUSIC"
+MUSIC_BOT_NAME = "COMBINADO"
 PRIVATE_BOT_MODE = getenv("PRIVATE_BOT_MODE", None)
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
